@@ -1059,7 +1059,7 @@ header .row {
 	min-height: 66px;
 }
 header .top-bar {
-	display: inline-block;
+	display: block;
 	background: #000000;
 	min-width: 220px;
 	min-height: 66px;
